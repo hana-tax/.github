@@ -1,12 +1,55 @@
-## 하나금융티아이 채용연계형 교육생 최종 프로젝트
+# HANATAX 서비스
 
-<!--
+![슬라이드1](https://github.com/user-attachments/assets/8a6db1c0-6d77-4935-b377-1c3021ad2818)
 
-**Here are some ideas to get you started:**
+## 1. 프로젝트 소개
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**목표**  
+나의 금융소득 분석 및 절세 전략 서비스
+
+![슬라이드3](https://github.com/user-attachments/assets/d92e6431-15d7-4059-9364-d1a8c2be3360)
+
+## 2. 프로젝트 개요
+하나택스는 금융소득 증가로 인해 종합과세 대상자가 늘어나는 환경에서, 개인의 금융소득을 효과적으로 분석하고 절세 전략을 제공하는 서비스입니다. 이를 통해 사용자가 세금 부담을 줄이고, 절세 상품에 가입할 수 있는 기회를 제공합니다.
+
+
+## 3. 주요 기능
+
+![슬라이드4](https://github.com/user-attachments/assets/864a1601-ef3f-4058-843c-90d9bb42a62e)
+
+- **마이데이터 연동**: 마이데이터를 통해 자산 현황을 확인하고, 절세 자산의 공제 한도를 파악
+- **금융소득 조회 및 분석**: 사용자의 금융소득을 조회하고 종합과세 대상 여부를 알림으로 제공, 월별 및 연도별 금융소득을 분석
+- **연말정산 예상 환급액 조회**: 예상 연말정산 결과를 계산하고, 공제 시뮬레이션
+- **절세상품 가입**: 세제 혜택을 시뮬레이션 및 가입 기능
+
+## 4. 서비스 구성도
+
+![슬라이드6](https://github.com/user-attachments/assets/cf78148f-14be-45f0-af8c-22ab6afe278d)
+
+## 5. 시스템 아키텍처
+
+![슬라이드7](https://github.com/user-attachments/assets/5100629a-1d21-422e-b5b3-bb0c4cc5d89b)
+
+## 6. 사용 기술
+
+![연말정산산](https://github.com/user-attachments/assets/ecf1e83a-705f-4786-9259-416123d319f8)
+
+
+
+
+## 7. 본인 소개
+
+| 구분   | 내용      | 비고                |
+|--------|-----------|---------------------|
+| 이름   | 송지원    | <img src="https://github.com/user-attachments/assets/0f3a862d-bf40-42e4-a7cf-7bb990a7a4a6" width="100" /> |
+| 연락처  | 이메일: wldnjs7064@naver.com                              |                     |
+| 전공  | 컴퓨터공학과                             |                     |
+| Skill Set | Java, Python, C++                                        |                     |
+| Framework | Spring Boot, React                                       |                     |
+| DBMS     | Oracle                                                    |                     |
+| 자격증  | 정보처리기사 (2023.11.15)                                 |                     |
+|        | 빅데이터분석기사 (2024.07.12)                              |                     |
+|        | SQLD (2023.07.07)                                          |                     |
+|        | 네트워크관리사 2급 (2019.12.24)                            |                     |
+| 수상    | 클라우드 아이디어 공모전 (2022.12.26)          | 장려상    |
+| 교육    | 하나금융티아이 채용연계형 교육 (2024.03.04 ~ 2024.10.18)   |                     |
