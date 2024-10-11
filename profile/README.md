@@ -44,12 +44,13 @@
 | 이름   | 송지원    | <img src="https://github.com/user-attachments/assets/0f3a862d-bf40-42e4-a7cf-7bb990a7a4a6" width="100" /> |
 | 연락처  | 이메일: wldnjs7064@naver.com                              |                     |
 | 전공  | 컴퓨터공학과                             |                     |
-| Skill Set | Java, Python, C++                                        |                     |
+| Skill Set | Java, C++, Javascript, Python                           |                     |
 | Framework | Spring Boot, React                                       |                     |
-| DBMS     | Oracle                                                    |                     |
+| DBMS     | Oracle, MySql                                             |                     |
 | 자격증  | 정보처리기사 (2023.11.15)                                 |                     |
 |        | 빅데이터분석기사 (2024.07.12)                              |                     |
 |        | SQLD (2023.07.07)                                          |                     |
 |        | 네트워크관리사 2급 (2019.12.24)                            |                     |
 | 수상    | 클라우드 아이디어 공모전 (2022.12.26)          | 장려상    |
 | 교육    | 하나금융티아이 채용연계형 교육 (2024.03.04 ~ 2024.10.18)   |                     |
+|         | 핀테크 서비스 개발 과정 - 오픈뱅킹 기반 간편결제/지급결제 실습 (2023.09.11 ~ 2023.09.15)   |                     |
